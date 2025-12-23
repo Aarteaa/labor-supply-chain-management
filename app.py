@@ -142,4 +142,4 @@ st.download_button(
     file_name="Labor_Supply_Chain_Report.txt"
 )
 
-st.success("Interactive dashboard ready 🚀")
+st.success
